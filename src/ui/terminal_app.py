@@ -1,4 +1,4 @@
-from src.backend.product_array import Product, Store
+from src.backend import Product, Store
 
 
 def _format_currency(value: float) -> str:
